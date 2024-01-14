@@ -1,2 +1,2 @@
-aabaabbcbbbaccc
-6
+abc
+bca

@@ -2,6 +2,12 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
+
+/*
+ * Trie模版题
+ * 变形的地方是要支持wildcard，"."
+ * 
+*/
 public class LC211m {
     public static void main(String[] args) throws IOException {
         BufferedReader br = new BufferedReader(new FileReader("input.txt"));
